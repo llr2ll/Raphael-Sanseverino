@@ -39,7 +39,7 @@
   </div>
   
   ##
-                                                                I Worked for:           
+                                                                Sites I Worked:           
   <div align="center">
        <a href="https://raphael-sanseverino.com">
           <img src="https://user-images.githubusercontent.com/76877273/181824571-af4a43b6-c240-4ac3-85d2-575b227d1f66.png" width="30%"></img>
