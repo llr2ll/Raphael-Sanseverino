@@ -1,10 +1,11 @@
-# 👾<a href="https://raphael-sanseverino.com">My Portifolio</a>👾
-
-<div>
-  <a href="https://github.com/llr2ll">
+# <div align="center">👾<a href="https://raphael-sanseverino.com">My Portifolio</a>👾</div>
+  <div align="center">
+    <a href="https://github.com/llr2ll">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llr2ll&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llr2ll&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="r2-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="r2-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -20,11 +21,8 @@
   <img align="center" alt="r2-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="r2-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="r2-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-        
-          
-      
   
-  <img height="150em" align="right" alt="r2-yoda" src="https://cdn.discordapp.com/attachments/884450439595171873/884451850173181992/tecno.gif">
+  <img height="150em" align="right" alt="r2-yoda" src="https://i.pinimg.com/originals/3e/72/b3/3e72b311682500305a7e66444743381c.gif">
 </div>
   
   ##
