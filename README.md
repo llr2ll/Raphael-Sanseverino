@@ -6,7 +6,7 @@
   
   
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="r2-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="r2-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="r2-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,21 +27,35 @@
   
   ##
  
-<div> 
- <a href="https://discord.gg/bt2Pwfsm7J" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatoraphaelsanseverino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphael-sanseverino-a91088139" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
- I Worked for:           <p>https://raphael-sanseverino.com</p>
-                         <p>https://h8oficial.com</p> 
-                         <p>https://portal.unimes.br</p>
-                         <p>https://mestrado-saude-meio-ambiente.unimes.br</p>
-                         <p>https://mestrado-medicina-veterinaria-meio-ambiente-litoraneo.unimes.br/</p>
-                         <p>https://mestrado-praticas-docentes-no-ensino-fundamental.unimes.br/</p>
-  ![Snake animation](https://github.com/llr2ll/llr2ll/blob/output/github-contribution-grid-snake.svg)
- 
+<div align="center"> 
+     <a href="https://discord.gg/bt2Pwfsm7J" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+     </a> 
+     <a href = "mailto:contatoraphaelsanseverino@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+     </a>
+     <a href="https://www.linkedin.com/in/raphael-sanseverino-a91088139" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+     </a>
+     <a>
+       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+     </a>
 </div>
   
- ##
+  ##
+                                                                I Worked for:           
+  <p>https://raphael-sanseverino.com</p>
+  <p>https://h8oficial.com</p> 
+  <p>https://portal.unimes.br</p>
+  <p>https://mestrado-saude-meio-ambiente.unimes.br</p>
+  <p>https://mestrado-medicina-veterinaria-meio-ambiente-litoraneo.unimes.br/</p>
+  <p>https://mestrado-praticas-docentes-no-ensino-fundamental.unimes.br/</p>
+</div>
   
+  
+ ##
+  ![Snake animation](https://github.com/llr2ll/llr2ll/blob/output/github-contribution-grid-snake.svg)
+ ##
+  <div align="center">
   <img width="1000em" align="" alt="r2-terminal" src="https://cdn.discordapp.com/attachments/884450439595171873/884455334486351932/terminal.gif">
+  <div align="center">
